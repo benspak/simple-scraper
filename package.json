@@ -1,0 +1,23 @@
+{
+  "name": "simple-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjaminspak/simple-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjaminspak/simple-scraper/issues"
+  },
+  "homepage": "https://github.com/benjaminspak/simple-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request-promise": "^4.2.6"
+  }
+}
